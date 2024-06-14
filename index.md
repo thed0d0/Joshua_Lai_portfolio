@@ -86,6 +86,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Acrylic parts | the frame of the hexapod (part of the build kit) | $126.95 | <a href="https://www.amazon.com/Freenove-Raspberry-Crawling-Detailed-Tutorial/dp/B07FLVZ2DN/ref=sr_1_1_sspa?crid=3GRGXL8PEZT3U&dib=eyJ2IjoiMSJ9.hyUjFCpcxtDvB6cSLdESXXxW_VlbfCW2sOuFZvcbQOIGmEBuC7OEUMaQFc9QwW4IXwx7Zam6zEOeONweFsjLFZKuOqUCxQ5HgmvRD4UQFOYNFty3scPqGq5J1g0TbtR_2bIyILUc5M0WNMqrnGrTWylHLQa3aQ613NmcWejs9wWrqJxOj5YOl3gf1PQej0RBbHZ0JXoReeEgeIy4xsbSajM-ZdqX12H5uQ_PnnmQRkQ.Nc_RRueNOp6PjfXo9382ZkI3SC-BbbYPBJXb0-GxLOo&dib_tag=se&keywords=freenove%2Bhexapod%2Brobot&qid=1718322574&sprefix=freenove%2Bhexapod%2Brobo%2Caps%2C133&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
 | freenove crawling robot controller arduino | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+
 <!--
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
