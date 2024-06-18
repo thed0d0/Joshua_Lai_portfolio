@@ -89,12 +89,15 @@ Don't forget to place the link of where to buy each component inside the quotati
 | ESP8266 Wi-Fi Module | enables remote controll from phone/remote (included in kit) | $6.59 | <a href="https://www.amazon.com/DIYmall-ESP8266-ESP-01S-Serial-Transceiver/dp/B00O34AGSU/ref=sr_1_5?crid=3GOL6I3EBGMIH&dib=eyJ2IjoiMSJ9.px4FtI_71QkacyvDpqIgx5j1tyPiXy_PgILs48PN144lSZvCaKm2AOFPYgKCqSVIdZhyHrZDfihzbCAuRbWKXKiFtMR5tJ1mXERCLMzlSv1VXnAFYJQOXPCdbwhg-g-zGNtYK9nyL_OQiNxUHS6AYFskb5BtUFB5zVvsY6_7l7JdjoqmRSY8haWrQoFlIBxIAcY5iK5PUNYkw2KlUztoKh_Iku1NaPCtwa3b7hNmbwg.7qZaFQ9e98Zz9RaFN0CEo8BdSPigvtGldXWbx9T1DMA&dib_tag=se&keywords=ESP8266+Wi-Fi+Module+x1&qid=1718408880&sprefix=esp8266+wi-fi+module+x1%2Caps%2C136&sr=8-5"> Link </a> |
 | Cable tidy | to wrap up and keep cables neat (included in kit) | $12.99 | <a href="https://www.amazon.com/D-Line-Spiral-Management-Solution-Organize/dp/B00OTRUW7G?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AIVUHJ2NABNJF&th=1"> Link </a> |
 | NiMH sub-C batteries x6 | the power source | $3.99 x 6 | <a href="https://power.tenergy.com/tenergy-propel-sub-c-3000mah-nimh-flat-top-rechargeable-battery/"> Link </a> |
+| 4 inch zipties x6 | for extra cable management | $11.29 | <a href="https://www.amazon.com/Monday-HS-Plastic-Self-Locking-Electronics-Electrical/dp/B078NT5F2B/ref=sr_1_6?crid=36KQE6KZ5T53Y&dib=eyJ2IjoiMSJ9.7Ue6x10STH4mwycfHZtSsKN24UvTGoqsZwaXErIeGgf_UHp51xjXhJBfDgAGmW45-Jma28IuTEEnxB_CyUAurI4UEn0ylTYVNm_bvyo5sjHzI8xl94xSdnbu7ifK56rV3pMNzgIw87gN_U3WEDLK4Fm30xjNrhbSSouhDofYWChxoGgV6-r8vtWa3na5h3s_wgia_n8Y4OVGO9aDOuahK7lI0YwLVUMbyjoTZhifsig.j0IozqhEFrwj2F5okU1KEVnSyWD-Oso_CBUUIVqS-J8&dib_tag=se&keywords=zip%2Bties%2B4%2Binch&qid=1718750635&sprefix=zip%2Bties%2B4%2Binch%2Caps%2C131&sr=8-6&th=1"> Link </a> |
+
 
 <!--| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+-->
 
-
-<!--
 # Other Resources/Examples
+ - Freenove's given files ( instuctions, code, part details) : a<  href="https://github.com/Freenove/Freenove_Hexapod_Robot_Kit"> Link </a>
+<!--
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
