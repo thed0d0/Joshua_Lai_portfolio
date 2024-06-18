@@ -89,7 +89,8 @@ Don't forget to place the link of where to buy each component inside the quotati
 | ESP8266 Wi-Fi Module | enables remote controll from phone/remote (included in kit) | $6.59 | <a href="https://www.amazon.com/DIYmall-ESP8266-ESP-01S-Serial-Transceiver/dp/B00O34AGSU/ref=sr_1_5?crid=3GOL6I3EBGMIH&dib=eyJ2IjoiMSJ9.px4FtI_71QkacyvDpqIgx5j1tyPiXy_PgILs48PN144lSZvCaKm2AOFPYgKCqSVIdZhyHrZDfihzbCAuRbWKXKiFtMR5tJ1mXERCLMzlSv1VXnAFYJQOXPCdbwhg-g-zGNtYK9nyL_OQiNxUHS6AYFskb5BtUFB5zVvsY6_7l7JdjoqmRSY8haWrQoFlIBxIAcY5iK5PUNYkw2KlUztoKh_Iku1NaPCtwa3b7hNmbwg.7qZaFQ9e98Zz9RaFN0CEo8BdSPigvtGldXWbx9T1DMA&dib_tag=se&keywords=ESP8266+Wi-Fi+Module+x1&qid=1718408880&sprefix=esp8266+wi-fi+module+x1%2Caps%2C136&sr=8-5"> Link </a> |
 | Cable tidy | to wrap up and keep cables neat (included in kit) | $12.99 | <a href="https://www.amazon.com/D-Line-Spiral-Management-Solution-Organize/dp/B00OTRUW7G?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=AIVUHJ2NABNJF&th=1"> Link </a> |
 | NiMH sub-C batteries x6 | the power source | $3.99 x 6 | <a href="https://power.tenergy.com/tenergy-propel-sub-c-3000mah-nimh-flat-top-rechargeable-battery/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+
+<!--| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 
 <!--
