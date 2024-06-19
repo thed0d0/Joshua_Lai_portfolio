@@ -37,6 +37,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 put embed here
 
   Since the first milestone
+
 <!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
