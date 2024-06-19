@@ -64,7 +64,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 
 # Schematics 
-![Headstone Image](FNM0019B_Freenove Crawling Robot Controller V3.1_Schematic.pdf)
+!(FNM0019B_Freenove Crawling Robot Controller V3.1_Schematic.pdf)
 
 <!-- Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
