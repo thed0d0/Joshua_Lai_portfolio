@@ -65,6 +65,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # Schematics 
 ![schematics](freenove's schematics.png)
+![remote schematics](remote controll schematic.png)
 
 <!-- Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
