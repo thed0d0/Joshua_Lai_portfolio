@@ -15,7 +15,9 @@ You should comment out all portions of your portfolio that you have not complete
 
 <img src="Joshua_L.JPG" width="1512" height="2016">
   
-<!--# Final Milestone
+# Final Milestone (June 25th, 2024)
+
+<!--
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -29,7 +31,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 
 -->
-# Second Milestone
+# Second Milestone (June 20th, 2024)
 **Assemble and attatch legs, calibrate legs**
 <!--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
@@ -47,7 +49,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 -->
 
-# First Milestone 
+# First Milestone (June 13th, 2024)
 **Install code to controller, assemble central body**
 <!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
@@ -116,7 +118,7 @@ One of the best parts about Github is that you can view how other people set up 
 
 To watch the BSE tutorial on how to create a portfolio, click here.
 -->
-# Starter Milestone
+# Starter Milestone (June 11th, 2024)
 
 <!--**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**-->
 
