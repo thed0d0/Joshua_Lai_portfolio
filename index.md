@@ -1,4 +1,5 @@
 # HEXAPOD ROBOT OF DOOM
+
 <!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:-->
@@ -19,7 +20,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6z4TW805CYg?si=IorbK040iQL3y76S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Now the hexapod is complete! It's complete with 6 working legs, 3 methods of control wired connection, wifi hotspot connection, wireless controll using a remote, and a cover with straps to secure the replacement battery pack. Since the last milestone, I have assembled the remote controller and 3d printed the cover for the hexapod with velcro straps to hold the battery in place. So far, the biggest challenges in making it to this point was the stubborn or faulty hardware of the kit. Mainly it was the stubborn self tapping screws and the wifi wireless module which was shorted out of the box and even after I cleaned up the solders 
+Now the hexapod is complete! It's complete with 6 working legs, 3 methods of control wired connection, wifi hotspot connection, wireless controll using a remote, and a cover with straps to secure the replacement battery pack. Since the last milestone, I have assembled the remote controller and 3d printed the cover for the hexapod with velcro straps to hold the battery in place. So far, the biggest challenges in making it to this point was the stubborn or faulty hardware of the kit. Mainly it was the stubborn self tapping screws and the wifi wireless module which was shorted out of the box and even after I cleaned up the solders, it remained shorted burning my finger just a few times. During this time at Bluestamp many new topics and concepts were introduced to me including Ohm's law, creating 3d prints with OnShape, coding with Arduino, and the functions of many different electrical components like servos, gyroscopes etc., and soldering. Now that the base project is complete, the fun part starts with my modifications. This pupae of a hexapod of doom will soon be able to fully spread it's wings as a true force to be reckoned with. Hopefully in the process of modifying the hexapod I will be able to dive deeper into how the hexapod itself works and learn how to create my own parts.
 
 <!--
 
