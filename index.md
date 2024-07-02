@@ -68,7 +68,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # Schematics 
 ![schematics](freenove's schematics.png)
-<span style="font-size:0.5em;">Figure 1 : schematic of freenove controller arduino circuit connected to servos</span>
+<span style="font-size:0.75em;">Figure 1 : schematic of freenove controller arduino circuit connected to servos</span>
 ![remote schematics](remote controll schematic.png)
 ![cover schematic](schematic for cover.png)
 ![robot](Product.png)
