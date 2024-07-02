@@ -70,9 +70,13 @@ For your second milestone, explain what you've worked on since your previous mil
 ![schematics](freenove's schematics.png)
 <span style="font-size:0.75em;">Figure 1 : schematic of freenove controller arduino circuit connected to servos</span>
 ![remote schematics](remote controll schematic.png)
+<span style="font-size:0.75em;">Figure 2 : schematic of freenove remote control arduino connected to WLAN module</span>
 ![cover schematic](schematic for cover.png)
+<span style="font-size:0.75em;">Figure 3 : 3d model of cover in onshape</span>
 ![robot](Product.png)
+<span style="font-size:0.75em;">Figure 4 : 3d render of hexapod</span>
 ![remote](RemoteProduct.png)
+<span style="font-size:0.75em;">Figure 5 : 3d render of remote control</span>
 
 <!-- Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
@@ -113,6 +117,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 # Other Resources/Examples
  - Freenove's given files ( instuctions, code, part details) : <a href="https://github.com/Freenove/Freenove_Hexapod_Robot_Kit"> link </a>
+ - 3d models (onshape) : <a href="https://cad.onshape.com/documents/7d4e9042e525032ecd115171/w/c8315eaa0f0c128825d19e17/e/63f65948613e60d742015e8e"> link </a>
 
 <!--
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
