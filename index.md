@@ -19,7 +19,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6z4TW805CYg?si=IorbK040iQL3y76S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Now the hexapod is complete! It's complete with 6 working legs, 3 methods of control wired connection, wifi hotspot connection, wireless controll using a remote, and a cover with straps to secure the replacement battery pack. Since the last milestone, I have 
+Now the hexapod is complete! It's complete with 6 working legs, 3 methods of control wired connection, wifi hotspot connection, wireless controll using a remote, and a cover with straps to secure the replacement battery pack. Since the last milestone, I have assembled the remote controller and 3d printed the cover for the hexapod with velcro straps to hold the battery in place. 
 
 <!--
 
