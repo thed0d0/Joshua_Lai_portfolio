@@ -77,6 +77,8 @@ For your second milestone, explain what you've worked on since your previous mil
 <span style="font-size:0.75em;">Figure 4 : 3d render of hexapod</span>
 ![remote](RemoteProduct.png)
 <span style="font-size:0.75em;">Figure 5 : 3d render of remote control</span>
+![mandibles](mandible 3d model.png)
+<span style="font-size:0.75em;">figure 6 : 3d model of mandibles</span>
 
 <!-- Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
