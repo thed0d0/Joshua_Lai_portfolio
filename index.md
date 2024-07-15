@@ -117,16 +117,22 @@ void loop() {
 -->
 
 # Code
+code to initialize LED strip and set all 17 lights to red
 ```c++
+#include <FNHR.h>
+#include <FastLED.h>
+FNHR robot;
+CRGB lights[17];
+
 void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600);
-  Serial.println("Hello World!");
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
+  Serial.begin(115200);
+  FastLED.addLeds<NEOPIXEL, 2>(lights, 17);
+  robot.SetActionSpeed(90);
+  for(int i = 0; i < 17; i++){
+      lights[i].setRGB( 255, 0, 0);
+  }
+  FastLED.show();
+  robot.Start(true);
 }
 ```
 
