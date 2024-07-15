@@ -135,7 +135,29 @@ void setup() {
   robot.Start(true);
 }
 ```
-
+(within given code to check for each switch's status on remote) to check if all switches are selected (off technically) and if so to send request for chomping and unchomping of mandibles
+```c++
+      else //S1 and S2 are on
+      {
+        if(s3Value){ //if S3 is off
+          rf24OutData[rf24OutDataCounter++] = 0 + 64;
+          rf24OutData[rf24OutDataCounter++] = map(joystickYValue, 0, 1024, 42, -42) + 64;
+          if(joystickYValue < 512)
+            rf24OutData[rf24OutDataCounter++] = map(joystickXValue, 0, 1024, -18, 18) + 64;
+          else
+            rf24OutData[rf24OutDataCounter++] = map(joystickXValue, 0, 1024, 18, -18) + 64;
+        }else{
+        if(joystickYValue < 712){
+          rf24OutData[rf24OutDataCounter++] = Orders::requestUnChomp;
+          Serial.println("unchomp request");
+        }else if(joystickYValue > 312){
+          rf24OutData[rf24OutDataCounter++] = Orders::requestChomp;
+          Serial.println("chomp request");
+        }else{
+          rf24OutData[rf24OutDataCounter++] = Orders::requestEcho;
+        }
+        }
+```
 # Bill of Materials
 <!--Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. -->
