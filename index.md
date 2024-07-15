@@ -61,6 +61,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 ![robot](Product.png)
 <span style="font-size:0.75em;">Figure 4 : 3d render of hexapod</span>
+
 <!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
