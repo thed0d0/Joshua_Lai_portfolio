@@ -14,7 +14,8 @@ You should comment out all portions of your portfolio that you have not complete
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-<img src="Joshua_L.JPG" width="756" height="1008">
+![hexapod biting header](https://github.com/user-attachments/assets/9e1e1c7d-5e2a-47b0-b3b9-e1839886e33f)
+
 
 # Modification (July 15th, 2024)
 
@@ -99,7 +100,6 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <!-- Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
-# Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
@@ -115,6 +115,20 @@ void loop() {
 }
 ```
 -->
+
+# Code
+```c++
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  Serial.println("Hello World!");
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
+```
 
 # Bill of Materials
 <!--Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
