@@ -16,6 +16,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 <img src="Joshua_L.JPG" width="756" height="1008">
 
+![hexapod jaws but smaller](https://github.com/user-attachments/assets/ee3e1c70-3e7f-4fd3-9c7c-1db887d85846)
 ![mandibles](mandible 3d model.png)
 <span style="font-size:0.75em;">figure 6 : 3d model of mandibles</span>
 ![mandible mount](mandible mount 3d model V4.png)
