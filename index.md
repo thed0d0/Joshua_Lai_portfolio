@@ -158,7 +158,7 @@ void setup() {
         }
         }
 ```
-code to add chomping and unchomping to blocked order 
+code to make sure chomping and unchomping are carried
 ```c++
   if (blockedOrder == Orders::requestChomp){
     SaveRobotBootState(Robot::State::Boot);
