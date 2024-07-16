@@ -117,7 +117,7 @@ void loop() {
 -->
 
 # Code
-**(all that were added, not included in kit)
+**all the code that was added
 
 code to initialize LED strip and set all 17 lights to red
 ```c++
