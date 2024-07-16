@@ -26,6 +26,8 @@ stufstufstuff
 <span style="font-size:0.75em;">figure 6 : 3d model of mandibles</span>
 ![mandible mount](mandible mount 3d model V4.png)
 <span style="font-size:0.75em;">figure 7 : 3d model of mandible mount</span>
+<img width="1109" alt="schematics for modifications" src="https://github.com/user-attachments/assets/ab5dbea7-1434-4742-9faf-059af4a0c548">
+<span style="font-size:0.75em;">figure 8 : schematics of modifications</span>
 
   
 # Final Milestone (June 25th, 2024)
