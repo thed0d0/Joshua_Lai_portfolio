@@ -138,7 +138,7 @@ void setup() {
   robot.Start(true);
 }
 ```
-$~$
+
 
 (within given code to check for each switch's status on remote) to check if all switches are selected (off technically) and if so to send request for chomping and unchomping of mandibles depending on the joystick's Y value.
 ```c++
