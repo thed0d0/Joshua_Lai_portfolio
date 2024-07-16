@@ -118,6 +118,7 @@ void loop() {
 
 # Code
 **(all that were added, not included in kit)
+
 code to initialize LED strip and set all 17 lights to red
 ```c++
 #include <FNHR.h>
