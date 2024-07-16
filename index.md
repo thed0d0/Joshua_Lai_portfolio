@@ -29,6 +29,7 @@ stufstufstuff
 
   
 # Final Milestone (June 25th, 2024)
+**complete remote and other**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6z4TW805CYg?si=IorbK040iQL3y76S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,7 +118,7 @@ void loop() {
 -->
 
 # Code
-**all the code that was added
+**all the code that was added**
 
 code to initialize LED strip and set all 17 lights to red
 ```c++
