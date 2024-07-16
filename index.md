@@ -117,6 +117,7 @@ void loop() {
 -->
 
 # Code
+**(all that were added, not included in kit)
 code to initialize LED strip and set all 17 lights to red
 ```c++
 #include <FNHR.h>
@@ -169,6 +170,42 @@ code to make sure chomping and unchomping are carried
     SaveRobotBootState(Robot::State::Boot);
     robotAction.UnChomp();
   }
+```
+code to initialize both mandible servos and to chomp (while is to make jaws close at same time instead of in order)
+```c++
+Servo leftServo;
+Servo rightServo;
+boolean servosInitialized = false;
+
+
+void RobotAction::Chomp(){
+  if(!servosInitialized){
+    leftServo.attach(3);
+    rightServo.attach(A1);
+    servosInitialized = true;
+  }
+  Serial.begin(115200);
+  Serial.println("Chomp");
+  while(leftServo.read() < 94 && rightServo.read() > 92){
+    leftServo.write(leftServo.read()+1);
+    rightServo.write(rightServo.read()-1);
+
+  }
+}
+
+void RobotAction::UnChomp(){
+  if(!servosInitialized){
+    leftServo.attach(3);
+    rightServo.attach(A1);
+    servosInitialized = true;
+  }
+  Serial.begin(115200);
+  Serial.println("unChomp");
+  while(leftServo.read() > 45 && rightServo.read() < 135){
+    leftServo.write(leftServo.read()-1);
+    rightServo.write(rightServo.read()+1);
+  }
+}
 ```
 # Bill of Materials
 <!--Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
