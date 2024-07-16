@@ -138,9 +138,7 @@ void setup() {
   robot.Start(true);
 }
 ```
-<pre>
-  gap to gap ykow
-</pre>
+$~$
 (within given code to check for each switch's status on remote) to check if all switches are selected (off technically) and if so to send request for chomping and unchomping of mandibles depending on the joystick's Y value.
 ```c++
       else //S1 and S2 are on
@@ -164,9 +162,7 @@ void setup() {
         }
         }
 ```
-<pre>
-  gap to gap ykow
-</pre>
+
 code to make sure chomping and unchomping are carried
 ```c++
   if (blockedOrder == Orders::requestChomp){
@@ -179,9 +175,7 @@ code to make sure chomping and unchomping are carried
     robotAction.UnChomp();
   }
 ```
-<pre>
-  gap to gap ykow
-</pre>
+
 code to initialize both mandible servos and to chomp (while is to make jaws close at same time instead of in order)
 ```c++
 Servo leftServo;
