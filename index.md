@@ -36,11 +36,11 @@ stufstufstuff
 Now the hexapod is complete! It's complete with 6 working legs, 3 methods of control wired connection, wifi hotspot connection, wireless controll using a remote, and a cover with straps to secure the replacement battery pack. Since the last milestone, I have assembled the remote controller and 3d printed the cover for the hexapod with velcro straps to hold the battery in place. So far, the biggest challenges in making it to this point was the stubborn or faulty hardware of the kit. Mainly it was the stubborn self tapping screws and the wifi wireless module which was shorted out of the box and even after I cleaned up the solders, it remained shorted burning my finger just a few times. During this time at Bluestamp many new topics and concepts were introduced to me including Ohm's law, creating 3d prints with OnShape, coding with Arduino, and the functions of many different electrical components like servos, gyroscopes etc., and soldering. Now that the base project is complete, the fun part starts with my modifications. This pupae of a hexapod of doom will soon be able to fully spread it's wings as a true force to be reckoned with. Hopefully in the process of modifying the hexapod I will be able to dive deeper into how the hexapod itself works and learn how to create my own parts.
 
 ![remote](RemoteProduct.png)
-<span style="font-size:0.75em;">Figure 5 : 3d render of remote control</span>
+<span style="font-size:0.75em;">Figure 5 : 3d render of remote control (credit to Freenove)</span>
 ![cover schematic](schematic for cover.png)
 <span style="font-size:0.75em;">Figure 3 : 3d model of cover in onshape</span>
 ![remote schematics](remote controll schematic.png)
-<span style="font-size:0.75em;">Figure 2 : schematic of freenove remote control arduino connected to WLAN module</span>
+<span style="font-size:0.75em;">Figure 2 : schematic of freenove remote control arduino connected to WLAN module (credit to Freenove)</span>
 
 <!--
 
@@ -62,7 +62,7 @@ For your final milestone, explain the outcome of your project. Key details to in
   Since the first milestone, I've attatched the servos to the acrylic frame, assembled the legs, wired in the servos, calibrated the legs, added the given and extra cable management, and installed the WLAN module. Now, the hexapod is capable of fully cordinated walking and body manipulation. Using wifi to controll the hexapod, I can controll the X Y movement, rotation on a vertical axis, Z elevation movement, X Y location of the central body in relation to the contact points of the legs, and the roll and pitch of the central body. All the servos that are used to preform these movements are connected to pins on the bottom side of the controller and using given cord wraps and additional zipties I secured the extra wire from the servos to avoid any obstruction during movement. My previous assumption that the self tapping screws would be a pain to use again was revealed true but now I prepared for it using rubber bands to create a more comfortable grip of the small screwdriver. My final milestone is creating the remote controll but I also intend to add a cover for the top of the hexapod to hold the large battery before I call the hexapod complete.
 
 ![robot](Product.png)
-<span style="font-size:0.75em;">Figure 4 : 3d render of hexapod</span>
+<span style="font-size:0.75em;">Figure 4 : 3d render of hexapod (credit to Freenove)</span>
 
 <!--
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
@@ -82,7 +82,7 @@ For your second milestone, explain what you've worked on since your previous mil
   My main project this summer is the freenove hexapod robot. The hexapod is built with a arduino mega as the controller for 18 servos which moves the legs. All of it is secured with screws onto an acrylic frame. So far I have used arduino IDE to upload the given programs to the controller and tested all the servos while conected to it. In addition, I connected a replacement power source to the controller and that to the acrylic frame. On the acrylic frame, I screwed discs for the servos to connect to using self tapping screws. That was the greatest challenge as the self tapping screws were stubborn and did not want to cut into a thread without a fight. Looking ahead to the many disks i'll have to screw in for the legs, I should to find a new efficeint method that doesn't kill my hands. Next up, I'll assemble the legs and calibrate them, then assemble the remote control. 
 
 ![schematics](freenove's schematics.png)
-<span style="font-size:0.75em;">Figure 1 : schematic of freenove controller arduino circuit connected to servos</span>
+<span style="font-size:0.75em;">Figure 1 : schematic of freenove controller arduino circuit connected to servos (credit to Freenove)</span>
 
 <!-- For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
